@@ -1,3 +1,4 @@
 - 👋 Hola, Mi nombres es @FRANCISDAX
-- 👀 Soy Técnico en Ingeniería de Software.
+- 👀 Soy Técnico en Ingeniería de Software con Inteligencia Artificial.
+- 👀 Soy Técnico en Desarrollo de Sistemas de Información.
 - 🌱 Me encanta el desarrollo de Apps Móviles y estoy full con React Native ...
